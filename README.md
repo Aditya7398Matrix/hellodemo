@@ -1,4 +1,4 @@
 # hellodemo
 this is my first repos
-my nmae is aditya rao
+my name  is aditya rao
 author-adi rao
